@@ -2,6 +2,7 @@
 Scrapes Financial Statement filings from Sedar into a .csv file
 
 At run it asks for the filing date, after its done it exits.
+
 If there was no filing for that day then it writes it into a file titled empty_ + the YYYYMM
 
 All filings are saved into one .csv per month.
